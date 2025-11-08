@@ -31,15 +31,6 @@
             "title": "Vanilla"
         },
         {
-            "name": "gplasync-ll",
-            "title": "Gplasync-LowLatency",
-            "features": {
-                "env": {
-                    "DXVK_ASYNC": 1
-                }
-            }
-        },
-        {
             "name": "gplasync",
             "title": "Gplasync",
             "features": {

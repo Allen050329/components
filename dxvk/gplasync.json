@@ -1,5 +1,11 @@
 [
     {
+        "name": "dxvk-gplasync-ll-v2.7.1-1",
+        "title": "2.7.1-1 ll",
+        "version": "2.7.1-1-gplasync-ll",
+        "uri": "https://github.com/Digger1955/dxvk-gplasync-lowlatency/releases/download/DXVK-GPLALL-2.7.1-1/DXVK.Native-GPLALL-GCC-SSE4.2-O3-LTO-GENERIC.2.7-1.tar.gz"
+    },
+    {
         "name": "dxvk-gplasync-v2.7-1",
         "title": "2.7-1",
         "version": "2.7-1-gplasync",
