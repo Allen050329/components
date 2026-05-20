@@ -1,15 +1,21 @@
 [
     {
-        "name": "dxvk-gplasync-ll-v2.7.1-3",
+        "name": "dxvk-gplall-v2.7.1-3",
         "title": "2.7.1-3 LL",
-        "version": "2.7.1-3-gplasync-ll",
+        "version": "2.7.1-3-gplall",
         "uri": "https://github.com/Allen050329/components/releases/download/DXVK-GPLALL-v2.7.1-3/DXVK-GPLALL-v2.7.1-3.tar.gz"
     },
     {
-        "name": "dxvk-gplasync-ll-v2.7.1-2",
+        "name": "dxvk-gplall-v2.7.1-2",
         "title": "2.7.1-2 LL",
-        "version": "2.7.1-2-gplasync-ll",
+        "version": "2.7.1-2-gplall",
         "uri": "https://github.com/Allen050329/components/releases/download/dxvk-gplasync-ll-v2.7.1-2.tar.gz/dxvk-gplasync-ll-v2.7.1-2.tar.gz"
+    },
+    {
+        "name": "dxvk-gplall-v2.7.1-1",
+        "title": "2.7.1-1 LL",
+        "version": "2.7.1-1-gplall",
+        "uri": "https://github.com/Allen050329/components/releases/download/DXVK-GPLALL-2.7.1-1/dxvk-gplall-v2.7.1-1.tar.gz"
     },
     {
         "name": "dxvk-gplasync-v2.7-1",
