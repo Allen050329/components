@@ -1,5 +1,11 @@
 [
     {
+        "name": "dxvk-gplall-v2.7.1-3",
+        "title": "2.7.1-3 LL",
+        "version": "2.7.1-3-gplall",
+        "uri": "https://github.com/Allen050329/components/releases/download/DXVK-GPLALL-v2.7.1-3/dxvk-gplall-v2.7.1-3.tar.gz"
+    },
+    {
         "name": "dxvk-gplasync-v3.0-1",
         "title": "3.0-1",
         "version": "3.0-1-gplasync",
