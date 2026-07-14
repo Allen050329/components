@@ -2,7 +2,7 @@
   {
     "name": "wine-dwproton-wow64-11.0-7",
     "title": "wine-dwproton 11.0-7",
-    "uri": "https://github.com/NelloKudo/spritz-wine/releases/download/wine-dwproton-11.0-7/wine-dwproton-wow64-11.0-7-x86_64.tar.xz",
+    "uri": "https://dawn.wine/dawn-winery/dwproton/releases/download/dwproton-11.0-7/dwproton-11.0-7-x86_64.tar.xz",
     "files": {
       "wine": "bin/wine",
       "wine64": "bin/wine",
